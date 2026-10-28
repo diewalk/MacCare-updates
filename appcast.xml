@@ -3,6 +3,27 @@
     <channel>
         <title>MacCare</title>
         <item>
+            <title>1.1.9</title>
+            <pubDate>Wed, 28 Oct 2026 21:28:52 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacCare 1.1.9</h2>
+<h3>Corrigé</h3>
+<ul>
+<li>Plein écran : la barre de titre qui descend au survol masquait la première ligne de la barre latérale (Smart Care). L'espace du haut est conservé : elle ne recouvre plus rien.</li>
+</ul>
+]]></description>
+            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.9.zip" length="4231673" type="application/octet-stream" sparkle:edSignature="nqaUAuZ1APjY+sdDFnWvFlA4Pl12llMCiJA8OUrRekPlPBYUEuQZpG7Jrt2RwLgEEO9IqqFVGOGf223qawteBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare14-13.delta" sparkle:deltaFrom="13" length="145818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J2Zi/COc/6Zk06yNuh+myS3PkwdmAdYZSsbgz8r3VlGA/n4GBsV4PCk2Yy41nB+wX6IfUAdzQkKBndcAK4OeDA=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare14-12.delta" sparkle:deltaFrom="12" length="154386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/3w+rHNG7LWe8jliFf6PUcVIAevFGtJweksqguyVV94dkeJF6wnmLiWUIX9PnDi37L/B0z0MPe5ptAs+IhtWCw=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare14-11.delta" sparkle:deltaFrom="11" length="224918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="y3K4MOwz4+0CfKMb2QAptGcisLP8bbbEneFXjOU/9k6hG/8++za+SPRJB41QhW+rOeS1b7BPYQdyhvUI8yaMBg=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare14-10.delta" sparkle:deltaFrom="10" length="269054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gj1MEMBzXATzrBDNXW604xrwzJj/fiZbIufTK3g9Ir7ZBU0xrT3IlEI06aUfIHIAso2YLTCWp6A0pHdv+P/HBA=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare14-9.delta" sparkle:deltaFrom="9" length="367030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Grz61xPSZPN1bM/G/u/XcgA7/YfWlz3bwQHYS7bVvDbu0ufeXjcAzQOlGVtEWQSiqirOl0UMEDAFU4MoXaKfBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.8</title>
             <pubDate>Wed, 28 Oct 2026 21:19:35 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -46,27 +67,6 @@
                 <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-9.delta" sparkle:deltaFrom="9" length="372014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I3Hckrq5gOr1SAkPa4vCTJE2bXCPZx+LpGAtmMpRa2SD9pjHhPTQ0WCKpj8h1GPcknVZvsD7W8W4nw2iQEr0BA=="/>
                 <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-8.delta" sparkle:deltaFrom="8" length="493514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L8zo4cMun49yR6z7sWIPpbU4Hm7VMInPl2oEDx9NFHciR+BZH4KuQh1jDVU3WjWBB7QQhYGB1sy4OTHCBrnsAg=="/>
                 <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-7.delta" sparkle:deltaFrom="7" length="493286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WMx28Hlj4wOtxL9zhFMOeiWa/ZCC/yVJZsoXiDZoE4Hg/hcdQembGntNJXcZCGpVuI0/Y6K+hWJ9DWnMAqzsDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.6</title>
-            <pubDate>Wed, 28 Oct 2026 21:01:43 +0100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>MacCare 1.1.6</h2>
-<h3>Corrigé</h3>
-<ul>
-<li>Plein écran : les boutons Fermer, Réduire et Plein écran étaient introuvables. La barre de titre standard de macOS est de retour en plein écran (les boutons s'affichent au survol, comme dans toutes les apps), et le contenu commence en dessous au lieu d'être masqué.</li>
-</ul>
-]]></description>
-            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.6.zip" length="4202087" type="application/octet-stream" sparkle:edSignature="OoWZHmuO9HF4WCfsNkjGahcO5Dpo4RGUuATiMVFbGbKpgkRb98NcVnJ/8yybvWPBzerZvcW0nkb4Ked8wOr6Cw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare11-10.delta" sparkle:deltaFrom="10" length="216602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4YMnKvqOVfbUKxbhksknbuVDp+Iz0pjuFNCjL3HtXxigsYu1LdRhuidwWo7dBBnk23WsJyaGpMT7ybuunSfiDA=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare11-9.delta" sparkle:deltaFrom="9" length="335098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SLIreY9740grB0lki9u3Cv+V4g7l6MPqzTkHacANg8lMlvV7ki5wrjULvitFF5cNH1bIhqF9UG4YbIUzc3DWAQ=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare11-8.delta" sparkle:deltaFrom="8" length="461802" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KEvgY219heNRXqXXgqXVYuzQsPdIlpchW9fyttemE8m4CFy0bTFuWmr10JQJZFUC19hY2I0atG0VYrz3/bcmAQ=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare11-7.delta" sparkle:deltaFrom="7" length="461946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IuHkTqbZ2/v6bp2ow+dVLTWlzZEnZ5YDNiNuWJvVVG2EQ6aleBi2WtfwpE8RD+j02DjpGWC1c2mZB+yvTvXICQ=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare11-6.delta" sparkle:deltaFrom="6" length="490318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qoc8h9stWTDG2zoFwauOhDBxGN7EmlCmz3o0SZ2X7BcMY5inqGdvvJpGjTckAyd6/siQuOyOLB0vV5eDYj6ICA=="/>
             </sparkle:deltas>
         </item>
     </channel>

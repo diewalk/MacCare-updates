@@ -3,6 +3,31 @@
     <channel>
         <title>MacCare</title>
         <item>
+            <title>1.1.7</title>
+            <pubDate>Wed, 28 Oct 2026 21:11:36 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacCare 1.1.7</h2>
+<h3>Amélioré</h3>
+<ul>
+<li>Smart Care : nouvel écran de résultats. Trois grands piliers (Nettoyage, Protection, Performance) avec leur chiffre clé, leur état et « Voir le détail », Applications et My Clutter en dessous, et un gros bouton « Nettoyer » qui ouvre l'écran de vérification avec ce que l'analyse a trouvé.</li>
+</ul>
+<h3>Corrigé</h3>
+<ul>
+<li>Smart Care indiquait « Mode simulation » après l'analyse même en mode réel : l'analyse est simplement en lecture seule.</li>
+</ul>
+]]></description>
+            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.7.zip" length="4232074" type="application/octet-stream" sparkle:edSignature="JWtzmKplfgW6E8olEjccg9rjPp49Sqsp7v8N4tGUIcuRVGuvBiu3vxHGWr5aPrMTZdxgseXBGpdYg2+CMTibAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-11.delta" sparkle:deltaFrom="11" length="222634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="POxxlcjHegszbRUcV5bR7mT4sMAUkQ4DJqT1n4kGpFoDMw6L2J2ZVsTjw1kF+6ebjNLBG7o1Z0t98iGoDNIEDA=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-10.delta" sparkle:deltaFrom="10" length="273118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vHfa49XaC7CtDtx9+mGez60+idkWe//PY4zzh6aB056jHWeB+qRRHSXy/8iynJauC6Yi/icBWZRZHQnQ2lpkAg=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-9.delta" sparkle:deltaFrom="9" length="372014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="I3Hckrq5gOr1SAkPa4vCTJE2bXCPZx+LpGAtmMpRa2SD9pjHhPTQ0WCKpj8h1GPcknVZvsD7W8W4nw2iQEr0BA=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-8.delta" sparkle:deltaFrom="8" length="493514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L8zo4cMun49yR6z7sWIPpbU4Hm7VMInPl2oEDx9NFHciR+BZH4KuQh1jDVU3WjWBB7QQhYGB1sy4OTHCBrnsAg=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare12-7.delta" sparkle:deltaFrom="7" length="493286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WMx28Hlj4wOtxL9zhFMOeiWa/ZCC/yVJZsoXiDZoE4Hg/hcdQembGntNJXcZCGpVuI0/Y6K+hWJ9DWnMAqzsDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.6</title>
             <pubDate>Wed, 28 Oct 2026 21:01:43 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -46,29 +71,6 @@
                 <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare10-7.delta" sparkle:deltaFrom="7" length="456414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="60kOscLLMkgXsZeYpMfCRmwkSr7OvpVQwW26eYoZ6Hs94a8699jzJMRhub6AKWcGvM6Lhb5l3tPfBamuise0AA=="/>
                 <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare10-6.delta" sparkle:deltaFrom="6" length="484022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Br6SQxIsEjkgqht6fWCeVNdtZSHHBh3dSG3qVWbskT5s90o0JFQZ2hfMrKrOT945hHseG0cHNVfx0U3zHAc1AQ=="/>
                 <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare10-5.delta" sparkle:deltaFrom="5" length="595810" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k9KyQk6Ln1hE7tX7Dqiazr1JoRNErhYNN/jcofdLxrlTpWXSRG6qEseBcxB6rpo3qzIuw9pqR7+Fxb8J4eoKDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.4</title>
-            <pubDate>Wed, 28 Oct 2026 20:29:06 +0100</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>MacCare 1.1.4</h2>
-<h3>Amélioré</h3>
-<ul>
-<li>My Clutter → Space Lens entièrement refait : liste du dossier du plus gros au plus petit (icône, description, taille, part du total), vue en bulles synchronisée avec la liste, boutons Précédent / Suivant et chemin cliquable, occupation du disque.</li>
-<li>Space Lens : cochez les éléments nettoyables (Téléchargements, contenu de ~/Library) puis « Corbeille » pour les mettre à la Corbeille après vérification. Les autres sont signalés par un cadenas.</li>
-<li>My Clutter : une phrase sous les onglets explique ce que montre chacun.</li>
-</ul>
-]]></description>
-            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.4.zip" length="4171878" type="application/octet-stream" sparkle:edSignature="Kbooyoi3LRTftqH+B/TyOaZYLn9dgJvNT1okpJgwADtj9urG7hZlb/RjkLOqrTS5ydPOjiOH36WWgdhuZjnIBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare9-8.delta" sparkle:deltaFrom="8" length="376618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9Uh6c9/Z58/rRjU42Y146zLzMrrGmPj0h0wLt4vO4Vnbq1uMljN05s58gXcDXaKNS2daQeBFnnKOohUcjFXsBw=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare9-7.delta" sparkle:deltaFrom="7" length="376750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xGBrinBnFLqq34aeBBHeKuKyII8eofaOaSN+B1s2rWVoCjHcfPmqD+VVh+rTeeyeV9Fe9Gh1voo6BxxjqM09Bw=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare9-6.delta" sparkle:deltaFrom="6" length="412998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4JTMDl2J25E2m1t9YLtbui0/SUkZaNUvX+QBGIzwhjav3FaucmNo1hzz5r21UizbbLBPoc6HWu6FrXwTc/iuCQ=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare9-5.delta" sparkle:deltaFrom="5" length="532310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nYkD33qjHmRcfUYXTvOlgLxF/hdo6vlOTIbODW/05JjKUW5+9+DsP0xnpFMXe64dUhvcAMGD5BZyDq5j2OuGAQ=="/>
-                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare9-4.delta" sparkle:deltaFrom="4" length="779706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2zABs0mBw4AWdiszGlL+eWse5lBFSIdKF26Dm1wK+EAJBdrJCsRquZDWlt6tElnP6PLYL+k59IQtDjqHvF+7Dw=="/>
             </sparkle:deltas>
         </item>
     </channel>

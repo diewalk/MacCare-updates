@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacCare</title>
+        <item>
+            <title>1.1.3</title>
+            <pubDate>Wed, 28 Oct 2026 20:00:46 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacCare 1.1.3</h2>
+<h3>Ajouté</h3>
+<ul>
+<li>Mises à jour automatiques en ligne : MacCare → Rechercher des mises à jour… (et la vérification quotidienne) lit désormais le flux publié sur GitHub Pages. Chaque archive reste vérifiée par sa signature EdDSA avant installation.</li>
+</ul>
+]]></description>
+            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.3.zip" length="4095749" type="application/octet-stream" sparkle:edSignature="yORPImxASalqSj0b/4fhFkVKe9T0czwQtFye3gKMm9ZNJxM27fR+xMwVZ8PZeSgljo8w7QBb70pRYG7VaAEjCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare8-7.delta" sparkle:deltaFrom="7" length="1722" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QB3ZSAQmkZhBtWAJvhzO665l5vftj5IRIeAW3zCle+W/KidT8irnTBOsoVqusdK1SE2WLda1LDWYno8P4PLTCg=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare8-6.delta" sparkle:deltaFrom="6" length="243266" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bPukMAOFnFto8cf/4aCgO4CYtOUbL+cSQFMG65XKo4AMlhiKhB6rWwrS5gWCdqWk6uXu4qyNTFo03qUCTyQ4Cw=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare8-5.delta" sparkle:deltaFrom="5" length="405954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Bv0NLZcGfXExglstiZszb/cfjkF3z9E3aBsjD399fBjDhNtr/qDIeqftjXHlLtTr+MH7/E7y1+Y2YcMMHIdMDg=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare8-4.delta" sparkle:deltaFrom="4" length="682598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KvW787hs+UfEtS+yLiNi4jiMFW3rjGhczi+qCWhQLA4Sgt2/5lKoZtBY082vfFCtjuFZOP7S2zo8RaPjoX6LCg=="/>
+                <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare8-3.delta" sparkle:deltaFrom="3" length="687410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o3xONUtSX25+rSAOWKRt9GXwAUaVcTOQd5amnzvnTfae+0DlQ21set4EOQwsJfDp/evh2Qah2NJiVGeNneWvCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1.2</title>
+            <pubDate>Wed, 28 Oct 2026 19:33:10 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacCare 1.1.2</h2>
+<h3>Amélioré</h3>
+<ul>
+<li>Après l'analyse Smart Care, Cleanup, Protection, Applications (restes d'apps supprimées) et My Clutter (gros fichiers) affichent directement ses résultats, sans nouvelle analyse. « Relancer » reste disponible pour actualiser.</li>
+</ul>
+]]></description>
+            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.2.zip" length="4095739" type="application/octet-stream" sparkle:edSignature="jPWCmTSpbjFZd/+O1zTAUKZYeG39Bvik4KTSm9qHT5WTJbigCs8Tl4Cx8XBxmtmam7g3JeQtH+EwUpdGWEoOBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://maccare.invalid/MacCare7-6.delta" sparkle:deltaFrom="6" length="243646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z5REXsoYkp1yqs3QaAsuRhblFIGn0VrxxpiOmR5Z2y8ti8rhu4p2ZJERuYPuRNLdUYBgumCBeFOsUTmVPdl6CQ=="/>
+                <enclosure url="https://maccare.invalid/MacCare7-5.delta" sparkle:deltaFrom="5" length="405926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gg0G+dy8k5Fcw/N6Rk1bNvY+Dj9o7hkPsGPIsmlNRPc28aGwGWLEoo+z3800lHSa2aOsmPByRTqSBVOx0rctDw=="/>
+                <enclosure url="https://maccare.invalid/MacCare7-4.delta" sparkle:deltaFrom="4" length="682846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dUpDfLjl0MlSiY/JHcmkuJjAt2AaeN7QQlEP4Rar6fFpA7/7laVLLRMoA2/KM0P14hfDl1/eC4/nqVC8cVjfCA=="/>
+                <enclosure url="https://maccare.invalid/MacCare7-3.delta" sparkle:deltaFrom="3" length="687562" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cxMoLq7jMoaTuM5A9IOturHdHkjrXBKvCYoMEEuSHF3RXSplFsX31Kg/2G/Bm5Nu55Vz6zo5DPWmAMMK6dIgCA=="/>
+                <enclosure url="https://maccare.invalid/MacCare7-2.delta" sparkle:deltaFrom="2" length="716706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EYiCR9088jm1oaf58XHUTmGtbASrADigc5MFJmNmfGwfgavvb6hNc++JMFODYdb5wdfUY/kILdj13/ecSMXGAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.1.1</title>
+            <pubDate>Wed, 28 Oct 2026 19:21:45 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacCare 1.1.1</h2>
+<h3>Ajouté</h3>
+<ul>
+<li>Cleanup : un clic sur une catégorie (Caches, Journaux, Caches d'Apple, Résidus, Pièces jointes Mail) ou sur une ligne « Les plus gros éléments » ouvre son contenu. Chaque élément se déplie pour montrer ses plus gros fichiers, avec « Afficher dans le Finder » ; « Nettoyer cette catégorie… » ouvre l'écran de validation avec ces seuls éléments.</li>
+<li>Écran de vérification : bouton œil sur chaque élément pour voir ce qu'il contient avant de le cocher.</li>
+<li>Applications → Restes d'apps supprimées : chaque reste se déplie de la même façon.</li>
+</ul>
+]]></description>
+            <enclosure url="https://diewalk.github.io/MacCare-updates/MacCare-1.1.1.zip" length="4085738" type="application/octet-stream" sparkle:edSignature="p7nGQvrRCtPc5si/9tJLSpkYsKFN0gCew6i9iG7wyi+q7Vd7+L28QR7ft3AsQs3klGQwjlh3ZIvKkaOMhnU2AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://maccare.invalid/MacCare6-5.delta" sparkle:deltaFrom="5" length="374234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fDFOI9RVZcqiQMp4kjIgwOz1Ec3GKJQ/t09w1nj3cN4j7oz/+HdxXlu3iIAMYxwQyUF+plESsjwdm057c3ocBQ=="/>
+                <enclosure url="https://maccare.invalid/MacCare6-4.delta" sparkle:deltaFrom="4" length="656062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0+nTsgRuPVotPgndNPn2ypIs8vbB0lj5UdVZp+5iNER7uJ+KLeUw36qntasi7CxIJxW8YCzHjV8xaYspfUUYBw=="/>
+                <enclosure url="https://maccare.invalid/MacCare6-3.delta" sparkle:deltaFrom="3" length="660990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="51ci7d3MyJ1y4IqhB5duU9QL/3Qav+DwYlxeegPB5W+j7XLRVa8oBEhv3UcuaB2xgur2EKkcCFaWOxTy8eEkAA=="/>
+                <enclosure url="https://maccare.invalid/MacCare6-2.delta" sparkle:deltaFrom="2" length="691154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dgWbsFBY/OIc1mSWZPDs+DJ5VSS60DTdEmc28lFZo+4qepUC2pgqUC/vrzuKi2YF1CHF09OyHQ214nSNUansCw=="/>
+            </sparkle:deltas>
+        </item>
+    </channel>
+</rss>

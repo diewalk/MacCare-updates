@@ -1,0 +1,18 @@
+<h2>MacCare 1.0.0</h2>
+<h3>Ajouté</h3>
+<ul>
+<li>Smart Care : analyse globale en un clic, en arrière-plan, avec récapitulatif par module.</li>
+<li>Cleanup : caches, journaux, caches d'Apple et résidus d'applications désinstallées, en lecture seule.</li>
+<li>Protection (simulation clairement étiquetée) : agents de démarrage et signature de leur programme, extensions de navigateur, apps et installateurs récemment téléchargés.</li>
+<li>Performance : agents de démarrage désactivables de façon réversible (quarantaine, Tools/restore.sh), processus gourmands en lecture seule.</li>
+<li>Applications : désinstalleur complet (app et fichiers associés), restes d'apps supprimées, suivi des versions et vérification en ligne sur clic.</li>
+<li>My Clutter : fichiers de plus de 1 Go, doublons (une copie toujours conservée), Space Lens.</li>
+<li>Écran de validation obligatoire avant tout déplacement, historique et « Annuler le dernier nettoyage ».</li>
+<li>Mode simulation par défaut au premier lancement ; accueil et écran d'Accès complet au disque.</li>
+<li>Mises à jour intégrées par Sparkle 2 (archives signées EdDSA).</li>
+</ul>
+<h3>Sécurité</h3>
+<ul>
+<li>Rien n'est jamais supprimé définitivement : tout passe par la Corbeille, via un point d'entrée unique vérifié par Tools/audit.sh à chaque build.</li>
+<li>Listes blanche et noire de chemins, liens symboliques résolus, refus de .., apps Apple protégées.</li>
+</ul>
